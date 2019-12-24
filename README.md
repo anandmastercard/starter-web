@@ -7,4 +7,6 @@ Thsi section is for deployment.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
+The purpose is to demo the difference.
+This is the final untracked change.
