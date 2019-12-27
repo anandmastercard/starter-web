@@ -10,3 +10,7 @@ Thsi section is for deployment.
 Sample website with plenty of files for demos.
 The purpose is to demo the difference.
 This is the final untracked change.
+
+###Copyright
+
+copyright section
