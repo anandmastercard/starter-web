@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Anand Gaurav anand4613@mastercard.com
 
 # THANKS
 
